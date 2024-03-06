@@ -82,3 +82,15 @@
 
 //    var brand = ("J.")
 //    alert(brand)
+
+
+                                                            // CHAPTER 05 ((Math expressions:))
+
+//  Q 1
+
+     var num = 5;
+    var num2 = 3;
+
+        console.log(num + num2);
+
+// ------------------------------------
